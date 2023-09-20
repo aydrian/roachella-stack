@@ -1,6 +1,6 @@
 import type { Config } from "tailwindcss";
 
-import * as crlTheme from "crl-theme.ts";
+import * as crlTheme from "./crl-theme.ts";
 
 export default {
   content: [
